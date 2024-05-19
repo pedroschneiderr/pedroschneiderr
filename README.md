@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Pedro Schneider, I'm a Computer Engineering student from Universidade Tecnológica Federal do Paraná (UTFPR), Toledo - PR.
+
+Currently learning Machine Learning e Post-Quantum Cryptography.
